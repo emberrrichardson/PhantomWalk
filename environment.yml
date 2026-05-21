@@ -1,6 +1,7 @@
-name: polywalkdpd
+name: phantomwalk
 channels:
   - conda-forge
 dependencies:
   - flowermd
   - time
+  - jupyter
